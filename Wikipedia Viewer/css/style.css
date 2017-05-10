@@ -1,0 +1,27 @@
+body,
+h1{
+  font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+}
+
+.vertical {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.callout:hover {
+	background-color: #EBEBEB;
+}
+
+h1 {
+	font-size: 4rem;
+	font-weight: 300;
+}
+
+h2 {
+	text-transform: uppercase;
+}
